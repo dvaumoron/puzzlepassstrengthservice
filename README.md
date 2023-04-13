@@ -1,2 +1,3 @@
 # puzzlepassstrengthservice
-a service description to check password strength
+
+[gRPC](https://grpc.io/) service description to check password strength.
